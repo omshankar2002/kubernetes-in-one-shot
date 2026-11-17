@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1794854354,,"wq"
+|2,0,1794948167,,"wq"
 :Wq
 |2,0,1794586030,,"Wq"
 
@@ -30,230 +30,339 @@
 |3,1,36,0,1,0,1794849385,":"
 
 # File marks:
-'0  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,48,35,30,1794860202,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
-'1  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,49,33,22,1794860202,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
-'2  2  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,50,2,0,1794859874,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
-'3  39  12  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,51,39,12,1794859874,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
-'4  1  0  ~/kubernetes-in-one-shot/nginx/ingrees.yml
-|4,52,1,0,1794858104,"~/kubernetes-in-one-shot/nginx/ingrees.yml"
-'5  5  10  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,53,5,10,1794854354,"~/kubernetes-in-one-shot/mysql/secret.yml"
-'6  32  37  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,54,32,37,1794854309,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
-'7  8  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,55,8,0,1794854237,"~/kubernetes-in-one-shot/mysql/secret.yml"
-'8  8  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,56,8,0,1794854237,"~/kubernetes-in-one-shot/mysql/secret.yml"
-'9  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,57,7,22,1794854151,"~/kubernetes-in-one-shot/mysql/secret.yml"
+'0  10  7  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,48,10,7,1794948167,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'1  1  21  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,49,1,21,1794948147,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'2  1  21  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,50,1,21,1794948147,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'3  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,51,14,0,1794948062,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'4  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,52,14,0,1794948062,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'5  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,53,14,0,1794948062,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'6  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,54,14,0,1794948062,"~/kubernetes-in-one-shot/apache/vpa.yml"
+'7  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,55,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+'8  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,56,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+'9  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,57,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
 
 # Jumplist (newest first):
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794860202,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794860202,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  2  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,2,0,1794859874,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  39  12  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,39,12,1794859874,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/nginx/ingrees.yml
-|4,39,1,0,1794858104,"~/kubernetes-in-one-shot/nginx/ingrees.yml"
--'  5  10  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,5,10,1794854354,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  8  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,8,0,1794854340,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  32  37  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,32,37,1794854309,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  32  37  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,32,37,1794854309,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  52  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,52,21,1794854244,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  52  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,52,21,1794854244,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  8  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,8,0,1794854237,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  8  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,8,0,1794854237,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,7,22,1794854169,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,7,22,1794854169,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,7,22,1794854169,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,7,22,1794854151,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  7  22  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,7,22,1794854151,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,1,0,1794854057,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,1,0,1794854057,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,1,0,1794854057,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,1,0,1794854057,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/secret.yml
-|4,39,1,0,1794854057,"~/kubernetes-in-one-shot/mysql/secret.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  21  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,21,1794853886,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  1  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,1,0,1794853883,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  84  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,84,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  36  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,36,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  84  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,84,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  36  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,36,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  81  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,81,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  33  22  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,33,22,1794853792,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  86  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,86,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  38  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,38,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  86  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,86,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  38  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,38,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  83  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,83,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853782,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  35  30  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,35,30,1794853575,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  100  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,100,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  97  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,97,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  97  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,97,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  49  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,49,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
--'  97  0  ~/kubernetes-in-one-shot/mysql/statefulsets.yml
-|4,39,97,0,1794853390,"~/kubernetes-in-one-shot/mysql/statefulsets.yml"
+-'  10  7  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,10,7,1794948167,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  1  21  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,1,21,1794948155,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  1  21  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,1,21,1794948147,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,14,0,1794948129,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,14,0,1794948129,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  14  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,14,0,1794948062,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  1  0  ~/kubernetes-in-one-shot/apache/vpa.yml
+|4,39,1,0,1794947887,"~/kubernetes-in-one-shot/apache/vpa.yml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  42  31  /tmp/kubectl-edit-1404044264.yaml
+|4,39,42,31,1794947407,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  1  0  /tmp/kubectl-edit-1404044264.yaml
+|4,39,1,0,1794947377,"/tmp/kubectl-edit-1404044264.yaml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+|4,39,5,21,1794947191,"~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  5  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+|4,39,5,21,1794947164,"~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
+-'  7  21  ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+|4,39,7,21,1794947107,"~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/kubernetes-in-one-shot/apache/vpa.yml
+	*	1794948167	0
+	"	10	7
+	^	10	8
+	.	10	7
+	+	5	18
+	+	4	17
+	+	13	22
+	+	14	0
+	+	1	21
+	+	10	7
+
+> /tmp/kubectl-edit-1404044264.yaml
+	*	1794947405	0
+	"	42	31
+	^	42	32
+	.	42	31
+	+	42	31
+
+> ~/kubernetes-in-one-shot/django-notes-app/k8s/hpa.yml
+	*	1794947191	0
+	"	5	21
+	^	5	22
+	.	6	0
+	+	22	30
+	+	10	18
+	+	4	16
+	+	5	22
+	+	6	0
+
+> ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
+	*	1794947164	0
+	"	5	21
+	^	5	22
+	.	5	21
+	+	1	13
+	+	13	16
+	+	5	21
+
+> ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
+	*	1794947107	0
+	"	7	21
+	^	7	22
+	.	7	21
+	+	22	26
+	+	4	16
+	+	6	17
+	+	12	19
+	+	16	21
+	+	19	22
+	+	20	42
+	+	22	28
+	+	5	0
+	+	7	21
+	+	9	12
+	+	7	17
+	+	23	18
+	+	30	0
+	+	26	23
+	+	29	23
+	+	7	21
+
+> ~/kubernetes-in-one-shot/apache/hpa.yml
+	*	1794946274	0
+	"	13	4
+	^	13	5
+	.	13	5
+	+	2	25
+	+	1	15
+	+	24	0
+	+	21	27
+	+	22	31
+	+	23	0
+	+	13	5
+
+> ~/kubernetes-in-one-shot/apache/deployment.yml
+	*	1794946250	0
+	"	38	0
+	^	38	0
+	.	37	25
+	+	67	0
+	+	44	9
+	+	39	16
+	+	37	25
+
+> ~/kubernetes-in-one-shot/apache/service.yml
+	*	1794944560	0
+	"	7	10
+	^	7	11
+	.	8	0
+	+	12	19
+	+	11	14
+	+	13	16
+	+	8	0
+
+> ~/kubernetes-in-one-shot/apache/namespace.yml
+	*	1794941766	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	5	0
+
+> ~/kubernetes-in-one-shot/apache/namespace
+	*	1794941721	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/kubernetes-in-one-shot/nginx/ingrees.yml
 	*	1794858104	0
@@ -348,33 +457,6 @@
 	+	14	33
 	+	21	20
 	+	22	23
-
-> ~/kubernetes-in-one-shot/django-notes-app/k8s/service.yml
-	*	1794847428	0
-	"	5	17
-	^	5	18
-	.	5	17
-	+	1	13
-	+	13	16
-	+	5	17
-
-> ~/kubernetes-in-one-shot/django-notes-app/k8s/deployment.yml
-	*	1794847405	0
-	"	7	17
-	^	7	18
-	.	7	17
-	+	22	26
-	+	4	16
-	+	6	17
-	+	12	19
-	+	16	21
-	+	19	22
-	+	20	42
-	+	22	28
-	+	5	0
-	+	7	21
-	+	9	12
-	+	7	17
 
 > ~/kubernetes-in-one-shot/django-notes-app/k8s/namespace.yml
 	*	1794588097	0

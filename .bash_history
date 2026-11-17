@@ -469,3 +469,23 @@ kubectl apply -f statefulsets.yml
 kubectl get pod -n mysql 
 kubectl exec -it mysql-statefulset-0 -n mysql -- bash 
 kubectl delete -f namespace.yml 
+ls
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/omshankar2002/kubernetes-in-one-shot.git
+git push -u origin main
+git sudo apt update
+sudo apt install git -y
+git config --global user.name "omshankar2002"
+git config --global user.email "shankarompal@gmail.com"
+git config --global user.email "your-github-email@example.com"
+git config --global user.email "shankarompal@gmail.com"
+git config --global --list
+git add .
+git init
+git add .
+git commit -m "this is kubernetes one shot"
+git branch -M main
+git remote add origin https://github.com/omshankar2002/kubernetes-in-one-shot.git
+git push -u origin main
